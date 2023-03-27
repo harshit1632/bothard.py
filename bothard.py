@@ -1,6 +1,6 @@
 import pywhatkit
 import time
-l=["hanish","harshit"]
+l=["harsh","harshit"]
 print("hello this is virtual assitant,what can i do for u\n\n")
 print()
 print("if you want to know about what i can do for u:-\n")
